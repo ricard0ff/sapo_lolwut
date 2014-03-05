@@ -1,5 +1,15 @@
 #!/usr/bin/python2.7 
 
+##########################################################################################################
+#   name: sapo exercise
+#   author: Ricardo Ferreira
+#   version: 1
+#   description: monitors a folder for new added pictures and displays the new one
+#   Usage: script_name.py
+#   Pyblake is needed in order for this to run
+####
+
+
 import os, re, sys
 from pyblake2 import blake2b #pip install pyblake
 imagesList = []
