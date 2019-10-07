@@ -57,5 +57,5 @@ for item in blake2List:
 		ff.write(item+"\n")
 
 criaHTMLPortavel(imagesList,folderName)
-print "[I] done :)"
+print "[I] done"
 
